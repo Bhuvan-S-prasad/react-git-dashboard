@@ -104,6 +104,3 @@ This project helped me learn:
 - Enhance loading animations.
 
 
-
-
-# react-git-dashboard
