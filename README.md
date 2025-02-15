@@ -9,6 +9,8 @@ A simple React application to explore GitHub user profiles and statistics using 
 
 ![Demo Screenshot](src/assets/image.png) <!-- Add screenshot later -->
 
+visit the react-app:[git-dashboard](https://bhuvan-s-prasad.github.io/react-git-dashboard/)
+
 ## Features ✨
 
 - 🔍 Search GitHub users by username
