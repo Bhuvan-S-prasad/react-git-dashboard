@@ -7,7 +7,7 @@
 
 A simple React application to explore GitHub user profiles and statistics using the GitHub API.
 
-![Demo Screenshot](src\assets\image.png) <!-- Add screenshot later -->
+![Demo Screenshot](src/assets/image.png) <!-- Add screenshot later -->
 
 ## Features ✨
 
@@ -104,6 +104,3 @@ This project helped me learn:
 - Enhance loading animations.
 
 
-
-
-# react-git-dashboard
